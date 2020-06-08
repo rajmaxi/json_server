@@ -2,15 +2,18 @@
   "productlist": [
     {
       "id": "1",
-      "name": "Apple"
+      "name": "Apple",
+      "pics": "https://github.com/rajmaxi/json_server/blob/master/images/1.webp"
     },
     {
       "id": "2",
-      "name": "Microsoft"
+      "name": "Microsoft",
+      "pics": "https://github.com/rajmaxi/json_server/blob/master/images/2.webp"
     },
     {
       "id": "3",
-      "name": "Google"
+      "name": "Google",
+      "pics": "https://github.com/rajmaxi/json_server/blob/master/images/3.webp"
     }
   ]
 }
