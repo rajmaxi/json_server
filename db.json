@@ -3,17 +3,17 @@
     {
       "id": "1",
       "name": "Apple",
-      "pics": "https://github.com/rajmaxi/json_server/blob/master/images/1.webp"
+      "pics": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/1.webp"
     },
     {
       "id": "2",
       "name": "Microsoft",
-      "pics": "https://github.com/rajmaxi/json_server/blob/master/images/2.webp"
+      "pics": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/2.webp"
     },
     {
       "id": "3",
       "name": "Google",
-      "pics": "https://github.com/rajmaxi/json_server/blob/master/images/3.webp"
+      "pics": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/3.webp"
     }
   ]
 }
