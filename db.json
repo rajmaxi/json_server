@@ -107,8 +107,8 @@
       "price": "229.99€",
       "pics": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.jpg",
       "thumbimg":[
-        {"thumbimg1": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.1.jpg"},
-        {"thumbimg2": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.2.jpg"}
+        {"thumbsrc": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.1.jpg"},
+        {"thumbsrc": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.2.jpg"}
       ]
     },
     {
@@ -196,8 +196,8 @@
       "price": "229.99€",
       "pics": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.jpg",
       "thumbimg":[
-        {"thumbimg1": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.1.jpg"},
-        {"thumbimg2": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.2.jpg"}
+        {"thumbsrc": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.1.jpg"},
+        {"thumbsrc": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.2.jpg"}
       ]
     },
     {
@@ -285,8 +285,8 @@
       "price": "229.99€",
       "pics": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.jpg",
       "thumbimg":[
-        {"thumbimg1": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.1.jpg"},
-        {"thumbimg2": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.2.jpg"}
+        {"thumbsrc": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.1.jpg"},
+        {"thumbsrc": "https://raw.githubusercontent.com/rajmaxi/json_server/master/images/9.2.jpg"}
       ]
     }
   ]
